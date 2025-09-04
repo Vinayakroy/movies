@@ -9,3 +9,13 @@ This project is a backend API built with Spring Boot designed to manage informat
 ## Visual Overview
 
 
+## Chapters
+1. Maven Project Management
+2. Spring Boot Application Entry Point
+3. Data Models (Movie & Review)
+4. REST Controllers
+5. Service Layer (Business Logic)
+6. Repository Layer (Data Access)
+MongoDB Database Configuration
+Cross-Origin Resource Sharing (CORS) Configuration
+
