@@ -165,3 +165,9 @@ Conclusion
 In this chapter, we've introduced Maven, our project's "project manager." We learned that the pom.xml file is like our project's blueprint, listing all its details, required libraries (dependencies), and build instructions. We also discovered mvnw.cmd (the Maven Wrapper script), which ensures everyone uses the same Maven version, making our build process consistent. By understanding these tools, you now know how our movies project is assembled and managed.
 
 Next, we'll dive into the actual code and explore the Spring Boot Application Entry Point, which is where our application truly begins!
+
+## Chapter 2: Spring Boot Application Entry Point
+Welcome back, future API builders! In our last chapter, Maven Project Management, we learned how Maven acts as our project's super-organized manager, handling dependencies and build instructions. Think of Maven as the team that gathers all the necessary parts and puts them into a neat box, ready to be powered on.
+
+Now that we have all our parts assembled, how do we actually start our movies application? How does it wake up, load all its components, and become ready to serve movie data? This is where the Spring Boot Application Entry Point comes in.
+
